@@ -25,7 +25,7 @@ class MySocialAppTests: XCTestCase {
     }
 
     func testMSACreate() {
-        let index = "24"
+        let index = "50"
         let userName = "\(index)aNewUserName"
         let email = "\(index)aNewEmail@mycoachsport.com"
         let password = "aNewPassword"
